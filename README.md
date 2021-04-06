@@ -1,4 +1,4 @@
-# StripePaymentMethod
+# StripePaymentGateWay
 
 - This is Code for StripePaymentMethod in this i have used "ejs" Module to create Templet of Payment. and Stripe Module Too.
 
